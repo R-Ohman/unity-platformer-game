@@ -24,7 +24,7 @@ To get started with our game project, follow these steps:
 
 ## Contributors
 - [R-Ohman](https://github.com/R-Ohman)
-- [vetall7]((https://github.com/vetall7))
+- [vetall7](https://github.com/vetall7)
 - Green
 
 Thank you for checking out our Unity platform game! We hope you enjoy playing it as much as we enjoyed creating it.
